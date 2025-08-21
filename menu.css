@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-align:center;
+    background-color: #edbf85;
+    font-family: Arial, sans-serif;
+}
+
+#navbar{
+    background-color:chocolate;
+    height:5rem;
+    line-height:5rem; 
+}
+
+li{
+    display:flex;
+    justify-content:space-between;
+    padding:8px 0;
+}
+
+.menu{
+    padding:20px;
+    margin:80px auto;
+    max-width:750px;
+}
+
+.items{
+    border-bottom: 2px solid brown;
+}
+

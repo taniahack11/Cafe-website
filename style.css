@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+h1{
+    color:rgb(22, 10, 2);
+    
+}
+
+#navbar{
+    background-color:chocolate;
+    height:5rem;
+    line-height:5rem; 
+}
+
+body{
+    background-image: url(cafe.jpeg);
+    background-size: cover;
+}
+
+
+img{
+    height:230px;
+    width:230px;
+    border: 7px double black;
+   
+}
+
+.section{
+    height:250px;
+    width:250px;
+    border-radius: 90%;
+}
+
+
+.sections{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:8rem;
+    gap:8rem;
+}
+
+
+#greetings{
+    margin-top: 200px;
+    color:white;
+}
+
+a{
+    color:white;
+    height:30px;
+}
+
+footer{
+    background-color:#e56b6f;
+    height:30px;
+    margin-top:100px;
+}
+

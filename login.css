@@ -1,0 +1,54 @@
+*{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    justify-content: center;
+    background-color:chocolate;
+    font-family: Arial, sans-serif;
+}
+
+body {
+      display: flex;
+      justify-content: center;  
+      align-items: center;      
+      height: 100vh;             
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+
+.loginform{
+      background-color: white;
+      padding:30px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      border-radius: 12px;
+      width: 320px;
+      margin:20px auto;
+      border: 3px solid black;
+      
+}
+
+h2{
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.login{
+  margin-bottom: 15px;   
+  padding: 8px;
+  width: 200px;
+  justify-content: center;
+  text-align: center;
+  border-radius: 8px;
+  background-color: white;
+}
+
+#submit{
+    background-color: chocolate;
+}
+
+
+
+
+
+
