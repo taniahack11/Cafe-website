@@ -20,3 +20,23 @@ This project demonstrates a basic **multi-page website** with navigation, images
 - **CSS3** – styling & responsive design  
 - **JavaScript** – interactivity  
 - **Google Forms** – feedback collection  
+
+---
+
+## 📂 Project Structure  
+├── index.html # Homepage
+├── menu.html # Menu page
+├── login.html # Login page
+├── style.css # Styling
+├── script.js # JavaScript functions
+└── assets/ # Images
+
+yaml
+Copy code
+
+---
+
+## 🚀 How to Run  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/your-username/cafe-aroma.git
